@@ -17,14 +17,14 @@ class UserStoreRequest extends FormRequest {
             return [
                 'name' => 'required|string|max:258',
                 'email'=> 'required:string|email',
-                'password'=> 'required|string|min:8'
+                'password'=> 'required|string'
             ];
         }
         else{
             return [
                 'name' => 'required|string|max:258',
                 'email'=> 'required:string|email',
-                'password'=> 'required|string|min:8'
+                'password'=> 'required|string'
             ];
         }
 

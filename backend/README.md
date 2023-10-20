@@ -1,4 +1,4 @@
-- (Sourc)[https://www.youtube.com/watch?v=QIlCT34gWh4&t=1327s]
+- [Source](https://www.youtube.com/watch?v=QIlCT34gWh4&t=1327s)
 
 ### Backend
 - composer create-project laravel/laravel example-app
